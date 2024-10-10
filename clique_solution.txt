@@ -1,0 +1,3 @@
+Largest clique in input_clique_5_new-1.csv: {B, C, D, F, I, }
+
+Largest clique in input_clique_6_new-1.csv: {B, C, D, F, I, N, }
